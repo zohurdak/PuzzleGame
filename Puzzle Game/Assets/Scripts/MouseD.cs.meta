@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa4cba9801a95264a9539a94291cb06a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _GameMan: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - particlem: {instanceID: 0}
+  - endSceneParticle: {instanceID: 0}
+  - audSource: {instanceID: 0}
+  - clik: {fileID: 8300000, guid: 9f34b7e7a6307914bb02d7ba29d9b060, type: 3}
+  - offClik: {fileID: 8300000, guid: f5735c6f13a2d28499ac1d61ea3109f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
